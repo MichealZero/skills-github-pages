@@ -1,3 +1,2 @@
----
-title: Welcome to my blog!
+explore the secret of the market
 ---
